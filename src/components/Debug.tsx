@@ -1,9 +1,9 @@
 import React from "react";
 
-const HelloWorld = () => {
+const Debug = () => {
   return (
     <>
-      <h1>Hello World</h1>
+      <h1>--DEBUG--</h1>
       <hr />
       <h3>Environmental variables:</h3>
       <p>
@@ -19,4 +19,4 @@ const HelloWorld = () => {
   );
 };
 
-export default HelloWorld;
+export default Debug;

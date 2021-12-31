@@ -1,6 +1,6 @@
 import React from "react";
-import HelloWorld from "./components/HelloWorld";
+import Debug from "@components/Debug";
 
-const App = () => <HelloWorld />;
+const App = () => <Debug />;
 
 export default App;
